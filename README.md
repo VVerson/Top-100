@@ -6,7 +6,7 @@ A simple Minecraft modpack.
 <div align="left">
 
 > **Q**: Something is broken!  
-> **A**: [Post to GitHub](https://github.com/VVerson/Top-100/issues)
+> **A**: [Post to Issues](https://github.com/VVerson/Top-100/issues)
 
 > **Q**: Is this a client modpack?  
 > **A**: Yes
